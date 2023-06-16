@@ -1,1 +1,156 @@
-const _0x3a0cc3=_0x54b6;(function(_0x47892c,_0x2e9fd3){const _0x5ba9be=_0x54b6,_0x3b237e=_0x47892c();while(!![]){try{const _0xd3abf1=parseInt(_0x5ba9be(0x148))/0x1*(parseInt(_0x5ba9be(0x172))/0x2)+-parseInt(_0x5ba9be(0x164))/0x3+-parseInt(_0x5ba9be(0x161))/0x4+parseInt(_0x5ba9be(0x173))/0x5*(-parseInt(_0x5ba9be(0x160))/0x6)+-parseInt(_0x5ba9be(0x15b))/0x7+parseInt(_0x5ba9be(0x182))/0x8*(-parseInt(_0x5ba9be(0x14f))/0x9)+-parseInt(_0x5ba9be(0x162))/0xa*(-parseInt(_0x5ba9be(0x16a))/0xb);if(_0xd3abf1===_0x2e9fd3)break;else _0x3b237e['push'](_0x3b237e['shift']());}catch(_0x51c2fb){_0x3b237e['push'](_0x3b237e['shift']());}}}(_0x1269,0xc791f));import _0x2615f8 from'fs';import _0x3f8361 from'node-fetch';function _0x54b6(_0x2d8cdc,_0x45cbed){const _0x126936=_0x1269();return _0x54b6=function(_0x54b6e3,_0x3baeca){_0x54b6e3=_0x54b6e3-0x146;let _0x3354d1=_0x126936[_0x54b6e3];return _0x3354d1;},_0x54b6(_0x2d8cdc,_0x45cbed);}import _0x170464 from'moment-timezone';let handler=_0xbccbf7=>_0xbccbf7;handler[_0x3a0cc3(0x174)]=async function(_0x258aee){const _0x110e2b=_0x3a0cc3;let _0x4157ab=await conn[_0x110e2b(0x18b)](_0x258aee[_0x110e2b(0x14a)]),_0x22771e=_0x110e2b(0x156);try{_0x22771e=await this[_0x110e2b(0x146)](_0x258aee['sender'],_0x110e2b(0x184));}catch(_0x5ea65c){}finally{global[_0x110e2b(0x18c)]=pickRandom([_0x110e2b(0x14c),_0x110e2b(0x180),_0x110e2b(0x17c),_0x110e2b(0x15d)]),global['fetch']=import(_0x110e2b(0x187)),global[_0x110e2b(0x14e)]=import(_0x110e2b(0x15c));const _0x3c27e7=process[_0x110e2b(0x181)]()*0x3e8;global[_0x110e2b(0x188)]=[[owner[0x0],await conn[_0x110e2b(0x18b)](owner[0x0]+'628983894004@s.whatsapp.net'),'Ziko\x20Vαlerié.',_0x110e2b(0x171),!![]]],global[_0x110e2b(0x178)]=ucapan(),global[_0x110e2b(0x189)]=_0x110e2b(0x18a),global[_0x110e2b(0x179)]={'contextInfo':{'forwardingScore':0x270f,'externalAdReply':{'showAdAttribution':!![],'title':_0x110e2b(0x154),'body':_0x110e2b(0x168),'mediaUrl':sgc,'description':'Euphyllia\x20-\x20MD','previewType':'PHOTO','thumbnail':await(await _0x3f8361(_0x22771e))['buffer'](),'sourceUrl':_0x110e2b(0x176)}}},global[_0x110e2b(0x166)]={'contextInfo':{'externalAdReply':{'showAdAttribution':!![],'title':_0x110e2b(0x155),'body':wm,'thumbnailUrl':_0x22771e,'sourceUrl':sig}}},global[_0x110e2b(0x163)]={'key':{'remoteJid':'status@broadcast','participant':_0x110e2b(0x15e)},'message':{'orderMessage':{'itemCount':0x6867a5a867f10400000000000000000000000000000000,'status':0x1,'surface':0x1,'message':wm,'orderTitle':wm,'sellerJid':'0@s.whatsapp.net'}}},global[_0x110e2b(0x150)]={'key':{'fromMe':![],'participant':'0@s.whatsapp.net',..._0x258aee[_0x110e2b(0x151)]?{'remoteJid':_0x110e2b(0x149)}:{}},'message':{'contactMessage':{'displayName':wm,'vcard':_0x110e2b(0x177)+wm+_0x110e2b(0x153)+wm+_0x110e2b(0x17e)+_0x258aee[_0x110e2b(0x14a)][_0x110e2b(0x14b)]('@')[0x0]+':'+_0x258aee[_0x110e2b(0x14a)][_0x110e2b(0x14b)]('@')[0x0]+_0x110e2b(0x167),'jpegThumbnail':_0x2615f8['readFileSync']('./src/thumbnail.png'),'thumbnail':_0x2615f8[_0x110e2b(0x14d)](_0x110e2b(0x16c)),'sendEphemeral':!![]}}},global['fvn']={'key':{'fromMe':![],'participant':'0@s.whatsapp.net',..._0x258aee[_0x110e2b(0x151)]?{'remoteJid':_0x110e2b(0x158)}:{}},'message':{'audioMessage':{'mimetype':_0x110e2b(0x17d),'seconds':_0x110e2b(0x16d),'ptt':_0x110e2b(0x175)}}},global[_0x110e2b(0x159)]={'key':{'fromMe':![],'participant':_0x110e2b(0x15e),..._0x258aee['chat']?{'remoteJid':_0x110e2b(0x183)}:{}},'message':{'extendedTextMessage':{'text':wm,'title':wm,'jpegThumbnail':_0x2615f8[_0x110e2b(0x14d)](_0x110e2b(0x16c))}}},global[_0x110e2b(0x152)]={'key':{'fromMe':![],'participant':_0x110e2b(0x15e),..._0x258aee[_0x110e2b(0x151)]?{'remoteJid':_0x110e2b(0x149)}:{}},'message':{'liveLocationMessage':{'caption':_0x110e2b(0x15a),'h':''+wm,'jpegThumbnail':_0x2615f8[_0x110e2b(0x14d)]('./src/thumbnail.png')}}},global['fliveLoc2']={'key':{'fromMe':![],'participant':'0@s.whatsapp.net',..._0x258aee[_0x110e2b(0x151)]?{'remoteJid':_0x110e2b(0x149)}:{}},'message':{'liveLocationMessage':{'title':_0x110e2b(0x16e),'h':wm,'jpegThumbnail':_0x2615f8[_0x110e2b(0x14d)](_0x110e2b(0x16c))}}},global[_0x110e2b(0x185)]={'key':{'fromMe':![],'participant':_0x110e2b(0x15e),..._0x258aee[_0x110e2b(0x151)]?{'remoteJid':'628983894004@s.whatsapp.net'}:{}},'message':{'productMessage':{'product':{'productImage':{'mimetype':'image/jpeg','jpegThumbnail':_0x2615f8[_0x110e2b(0x14d)]('./src/thumbnail.png')},'title':wm,'description':_0x110e2b(0x16b),'currencyCode':'USD','priceAmount1000':_0x110e2b(0x17f),'retailerId':'Ghost','productImageCount':0x1},'businessOwnerJid':'0@s.whatsapp.net'}}},global[_0x110e2b(0x17b)]={'key':{'participant':_0x110e2b(0x15e)},'message':{'documentMessage':{'title':wm,'jpegThumbnail':_0x2615f8[_0x110e2b(0x14d)]('./src/thumbnail.png')}}},global['fgclink']={'key':{'fromMe':![],'participant':_0x110e2b(0x15e),'remoteJid':'0@s.whatsapp.net'},'message':{'groupInviteMessage':{'groupJid':'62898394004-1625305606@g.us','inviteCode':_0x110e2b(0x165),'groupName':_0x110e2b(0x186),'caption':wm,'jpegThumbnail':_0x2615f8['readFileSync']('./src/thumbnail.png')}}},global[_0x110e2b(0x147)]={'key':{'fromMe':![],'participant':_0x110e2b(0x15e),..._0x258aee[_0x110e2b(0x151)]?{'remoteJid':_0x110e2b(0x183)}:{}},'message':{'videoMessage':{'title':wm,'h':_0x110e2b(0x170),'seconds':'999999999','gifPlayback':'true','caption':wm,'jpegThumbnail':_0x2615f8['readFileSync'](_0x110e2b(0x16c))}}};}};function _0x1269(){const _0x16d6b9=['false','https://www.facebook.com/vimukthi.oshada.xd','BEGIN:VCARD\x0aVERSION:3.0\x0aN:XL;','ucapan','adReply','Selamat\x20malam\x20🌙','fdocs','application/msword','audio/ogg;\x20codecs=opus',',\x0aitem1.TEL;waid=','20000000','application/vnd.openxmlformats-officedocument.presentationml.presentation','uptime','3496mMCctu','628983894004-1625305606@g.us','image','ftoko','Kawan\x20WH\x20MODS\x20DEV','node-fetch','kontak2','ephemeral','86400','getName','doc','profilePictureUrl','fgif','298786sAlsTo','status@broadcast','sender','split','application/vnd.ms-excel','readFileSync','bochil','27486NXCKeZ','fkontak','chat','fliveLoc',',;;;\x0aFN:','Zikoxd\x20-\x20MultiDevices','Ziko\x20-\x20MD','https://telegra.ph/file/98a83fcdfdbea8be6d6b7.jpg','format','6282127487538-1625305606@g.us','ftextt','by\x20:\x20WH\x20MODS\x20DEV','9748753fEVPNn','@bochilteam/scraper','application/pdf','0@s.whatsapp.net','random','4916442qNDInk','6237132OqYdKr','170MAeuYG','ftroli','4110564HMYAIn','null','fakeig','\x0aitem1.X-ABLabell:Ponsel\x0aEND:VCARD','Chat\x20Bot\x20WhatsApp','Selamat\x20pagi\x20🌄','4139388infnrx','Simple\x20Bot\x20Esm','./src/thumbnail.png','999999999999','WH\x20MODS\x20DEV','Selamat\x20sore\x20🌅','Hmm','https://www.facebook.com/vimukthi.oshada.xd','6IXApAl','5LziAFm','all'];_0x1269=function(){return _0x16d6b9;};return _0x1269();}export default handler;function ucapan(){const _0xb7283=_0x3a0cc3,_0x3dcde7=_0x170464['tz']('Asia/Jakarta')[_0xb7283(0x157)]('HH');let _0x483844=_0xb7283(0x17a);return _0x3dcde7>=0x4&&(_0x483844=_0xb7283(0x169)),_0x3dcde7>0xa&&(_0x483844='Selamat\x20siang\x20☀️'),_0x3dcde7>=0xf&&(_0x483844=_0xb7283(0x16f)),_0x3dcde7>=0x12&&(_0x483844='Selamat\x20malam\x20🌙'),_0x483844;}function pickRandom(_0xa6fe0){const _0x18da58=_0x3a0cc3;return _0xa6fe0[Math['floor'](_0xa6fe0['length']*Math[_0x18da58(0x15f)]())];}
+let fs = require('fs')
+let fetch = require('node-fetch')
+let handler = m => m
+handler.all = async function (m) {
+	let pp = 'https://telegra.ph/file/2d06f0936842064f6b3bb.png'
+	try {
+		pp = await this.profilePictureUrl(m.sender, 'image')
+	} catch (e) {
+	} finally {
+		global.axios = require('axios')
+		global.request = require('request')
+		global.users = global.db.data.users[m.sender]
+		global.chats = global.db.data.chats[m.chat]
+        
+		global.ftroli = { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net' }, message: { orderMessage: { itemCount: 9999999999999999999999999999999999999999999999999999999, status: 1, surface: 1, message: wm, orderTitle: wm, sellerJid: '0@s.whatsapp.net' } } }
+		
+        global.fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: `status@broadcast` } : {}) }, message: { 'contactMessage': { 'displayName': wm, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${wm},;;;\nFN:${wm},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabell:Ponsel\nEND:VCARD`, 'jpegThumbnail': require('fs').readFileSync('./src/logo.jpg'), thumbnail: require('fs').readFileSync('./src/logo.jpg'),sendEphemeral: true}}}
+        
+        global.fvn = {
+	 key: { 
+          fromMe: false,
+	      participant: `0@s.whatsapp.net`, ...(m.chat ? 
+	 { remoteJid: "6282331033919-1625305606@g.us" } : {}) 
+                },
+	 message: { 
+		"audioMessage": {
+                 "mimetype":"audio/ogg; codecs=opus",
+                 "seconds": "999999999999",
+                 "ptt": "true"
+                        }
+	                  } 
+                     }
+        
+         global.ftextt = {
+	 key: { 
+          fromMe: false,
+	      participant: `0@s.whatsapp.net`, ...(m.chat ? 
+	 { remoteJid: "6282331033919-1625305606@g.us" } : {}) 
+                },
+	 message: { 
+		"extendedTextMessage": {
+                 "text":wm,
+                 "title": wm,
+                 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')
+                        }
+	                  } 
+                     }
+        
+           global.fliveLoc = {
+	 key:
+	 { fromMe: false,
+	 participant: `0@s.whatsapp.net`, ...(m.chat  ? 
+	 { remoteJid: "status@broadcast" } : {}) },
+	 message: { "liveLocationMessage": { "caption":"by : The.sad.boy01","h": `${wm}`, 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')}}
+	}
+        
+	       global.fliveLoc2 = {
+	 key:
+	 { fromMe: false,
+	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
+	 { remoteJid: "status@broadcast" } : {}) },
+	 message: { "liveLocationMessage": { "title": "the.sad.boy01","h": wm, 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')}}
+	}
+        
+            global.ftoko = {
+key: {
+			fromMe: false,
+			participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "6282331033919@s.whatsapp.net" } : {})
+		},
+		message: {
+			"productMessage": {
+				"product": {
+					"productImage":{
+						"mimetype": "image/jpeg",
+						"jpegThumbnail": fs.readFileSync('./src/logo.jpg') //Gambarnye
+					},
+					"title": wm, //Kasih namalu 
+					"description": namabot, 
+					"currencyCode": "USD",
+					"priceAmount1000": "20000000",
+					"retailerId": "Ghost",
+					"productImageCount": 1
+				},
+				    "businessOwnerJid": `0@s.whatsapp.net`
+		}
+	}
+}
+        
+              global.fdocs = {
+	key : {
+           participant : '0@s.whatsapp.net'
+                        },
+       message: {
+                    documentMessage: {
+                    title: wm, 
+                    jpegThumbnail: fs.readFileSync('./src/logo.jpg')
+                          }
+                        }
+                      }
+        
+             global.fgclink = {
+	"key": {
+		"fromMe": false,
+		"participant": "0@s.whatsapp.net",
+		"remoteJid": "0@s.whatsapp.net"
+	},
+	"message": {
+		"groupInviteMessage": {
+			"groupJid": "6282331033919-1625305606@g.us",
+			"inviteCode": "null",
+			"groupName": "☬𝚁𝚊𝚡𝚌𝚎𝚕 ༼༽𝚡 𝚎𝚟𝚒𝚕 𝐎𝔣ᶜ ◉", 
+            "caption": `╭─${kki}RULES BOT${kka}
+│
+├❒ DILARANG TOXIC
+├❒ DILARANG SPAM
+├❒ DILARANG KIRIM VIRTEX
+├❒ DILARANG KIRIM 18+ APAPUN ITU
+├❒ DILARANG TELPON / VC
+├❒ DILARANG CULIK BOT
+├❒ DILARANG PROMOSI
+├❒ BOT TIDAK MENERIMA SAVE KONTAK
+│
+├❏ KALO MELANGGAR AKAN LANGSUNG DIBAN DAN DI BLOKIR TANPA TOLERANSI SEDIKIT PUN
+│
+└─${kki}RULES BOT${kka}`, 
+            'jpegThumbnail': fs.readFileSync('./src/logo.jpg')
+		}
+	}
+}
+
+             global.fgif = {
+	 key: { 
+          fromMe: false,
+	      participant: `0@s.whatsapp.net`, ...(m.chat ? 
+	 { remoteJid: "6282331033919-1625305606@g.us" } : {}) 
+                },
+	 message: { 
+                 "videoMessage": { 
+                 "title": wm,
+                 "h": `Hmm`,
+                 'seconds': '999999999', 
+                 'gifPlayback': 'true', 
+                 'caption': wm,
+                 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')
+                        }
+                       }
+	                  }
+       
+        global.fake = pickRandom(global.fak)
+        
+        global.fak = [ fvn, fgif, ftroli, fgclink, fliveLoc, fliveLoc2, fdocs, ftoko, ftextt, fkontak ]
+		// Tambahin ya
+	}
+}
+
+module.exports = handler
