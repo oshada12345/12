@@ -9,17 +9,17 @@ const { generateWAMessageFromContent, proto } = (await import('@adiwajshing/bail
 
 const defaultMenu = {
   before: `❏ *Nama:*  %name 
-❏ *Nomor:* %tag
-❏︎ *Premium:* %prems
-❏︎ *Limit:* %limit
-❏︎ *Money:* %money
-❏ *Role:* %role
-❏︎ *Level:* %level
-❏︎ *Xp:* %exp / %maxexp
-❏︎ *Total Xp:* %totalexp
+❏ 🧬 *Number:* 🧬 %tag
+❏︎ 🚫 *Premium:* 🚫 %prems
+❏︎ 💡 *Limit:* 💡 %limit
+❏︎ 💹 *Money:* 💹 %money
+❏ 🔌 *Role:* 🔌 %role
+❏︎ 📈 *Level:* 📈 %level
+❏︎ 📍 *Xp:* 📍 %exp / %maxexp
+❏︎ 📚 *Total Xp:* 📚 %totalexp
 %readmore
 `.trimStart(),
-  header: '╭─────『 %category 』',
+  header: '╭─────『 🫧 %category 🫧 』',
   body: '❏︎ %cmd %isPremium %islimit',
   footer: '╰–––––––––––––––༓',
   after: ``,
