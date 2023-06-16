@@ -8,19 +8,19 @@ var handler = async (m, { conn, command, text, usedPrefix }) => {
   let { title, thumbnail, timestamp, views, ago, url } = vid
 
   let captvid = `╭──── 〔 Y O U T U B E 〕
-• Judul: ${title}
+• 💻 Title: ${title}
 
-• Durasi: ${timestamp}
+• 🕓 Duration: ${timestamp}
 
-• Views: ${views}
+• 🔮 Views: ${views}
 
-• Upload: ${ago}
+• 📤 Upload: ${ago}
 
-• Link: ${url}
+• 📎 Link: ${url}
 
-• Note: Untuk Video Ketik .ytv Masukan Link Atas
+• Note:💽 For Video Type .ytv Enter Link Above 💽
 
-• Contoh: .ytv ${url}
+• 🔭 Example : .ytv ${url}
 ╰────────⬣`
 conn.sendMessage(m.chat, { image: { url: thumbnail }, caption: captvid }, m)
 const yt = await await youtubedlv2(url).catch(async _ => await youtubedl(url)).catch(async _ => await youtubedlv3(url))
@@ -48,7 +48,7 @@ handler.tags = ['downloader']
 handler.command = /^play?$/i
 
 handler.exp = 0
-handler.limit = true
+handler.limit = false
 handler.register = false
 
 export default handler
