@@ -30,41 +30,41 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['628983894004', true],
-['628983894004', 'ZikoXd', true],
-['628983894004', 'Zikoxd', true]
+['94703698781', true],
+['94703698781', 'Oshada', true],
+['94703698781', 'OShada', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628983894004'
-global.nomorown = '628983894004'
-global.nomorown1 = '628983894004'
-global.nomorown2 = '628983894004'
-global.nomorwa = '628983894004'
+global.nomorbot = '94703698781'
+global.nomorown = '94703698781'
+global.nomorown1 = '94703698781'
+global.nomorown2 = '94703698781'
+global.nomorwa = '94703698781'
 
 
 global.readMore = readMore
-global.author = 'ZikoXD' // author jangan di ubah hargai yang buat
-global.namebot = '​ZIKOXD - MD'
-global.wm = '© ZIKOXD By ZIKOXD'
+global.author = 'OShaDA' // author jangan di ubah hargai yang buat
+global.namebot = '​SATHAN - MD'
+global.wm = '©satan'
 global.media = 'https://telegra.ph/file/02a8d3c4b00146bbfeb5d.jpg' // jangan di ubah kalo di ubah error
 global.watermark = wm
-global.wm2 = 'Zeltoria'
+global.wm2 = 'satan'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `Zikoxd - MD`
-global.stickpack = 'Zikoxd By'
-global.stickauth = `© Zikoxd` // jangan di ubah kalo di ubah error
+global.titlebot = `SATHAN - MD`
+global.stickpack = 'SATHAN By'
+global.stickauth = `©oshada` // jangan di ubah kalo di ubah error
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= 'Zikoxd x Vald'
-global.nameown2 = 'Zikoxd X Vald'
+global.nameown1= 'oshada x '
+global.nameown2 = 'oshada X'
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
 global.sig = 'https://www.instagram.com/bot' //instagram
 global.sgh = 'https://github.com/bot' //github
-global.sgc = 'https://chat.whatsapp.com/EWABTHINOO5CgpHXwSE9Iz' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/n' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/@bot' //youtube
 //Donasi/Payment
