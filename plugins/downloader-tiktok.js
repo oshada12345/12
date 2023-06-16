@@ -11,6 +11,6 @@ if (!args[0]) throw `Where's the link?🌝`
 handler.help = ['tiktok']
 handler.tags = ['downloader']
 handler.command = /^(tiktok|tt|ttdl|tiktokdl)$/i
-handler.limit = 
+handler.limit = flase
 
 export default handler
